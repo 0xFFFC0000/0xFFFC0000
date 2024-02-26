@@ -1,0 +1,4 @@
+- Hi, I’m `0xFFFC0000`
+- My background was in compilers; now I’m working on Monero.
+- Reach me: `0xFFFC0000@proton.me`
+- XMR Address: `82och6t9nFgiDvjXKK8VAAe8pRuAHookyjehcmG3Z5epfPf6EMvC1YaQwsqX3Ycrs2brKCbTcsherEkMWnCQgoWtS6vyKgt`
